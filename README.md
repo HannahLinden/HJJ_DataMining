@@ -6,7 +6,7 @@
 ## 数据挖掘大作业
 ### 第一步：注册github账号，如下图所示：
 ![image](https://github.com/HannahLinden/HJJ_DataMining/assets/87311945/87c840e3-7b5d-4529-b9dd-effaa6c89363)
-### 第二步：建立一个库叫，HJJ_DataMining，如下图所示：
+### 第二步：建立一个名为HJJ_DataMining的库，如下图所示：
 ![image](https://github.com/HannahLinden/HJJ_DataMining/assets/87311945/c91c7903-2e18-4758-949a-a0bdbe4e6492)
 ### 第三步：上传自己的ppt到HJJ_DataMining库中,如下图所示：
 ![image](https://github.com/HannahLinden/HJJ_DataMining/assets/87311945/3e75e2ff-ad61-4147-9db1-9e18ac861509)
