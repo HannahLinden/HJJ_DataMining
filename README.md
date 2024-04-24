@@ -1,6 +1,6 @@
-![image](https://github.com/HannahLinden/HJJ_DataMining/assets/87311945/d691b46b-0d6e-4cbf-82c5-66409921383c)# HJJ_DataMining
-### 姓名：何静杰<br>
-### 专业：计算机科学与技术
+# HJJ_DataMining
+#### 姓名：何静杰
+#### 专业：计算机科学与技术
 
 ## 数据挖掘大作业
 ### 第一步：注册github账号，如下图所示：
